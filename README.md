@@ -81,4 +81,4 @@ This homelab repository showcases my foundational skills in IT and cybersecurity
 
 
 
-This README is structured to guide anyone reviewing your repository through the different phases of your project, demonstrating both technical skills and professional growth. It also conveys your commitment to learning and improvement, which is valuable for potential employers.
+
